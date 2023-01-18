@@ -1,19 +1,19 @@
 h1 {
 font-kerning: 5;
 font-style: italic;
-color: rgb(118, 144, 153);
+color: paleturquoise;
 }
 
 p {
 font-kerning: 5;
 font-style: italic;
-color:rgb(180, 216, 248);
+color: palevioletred;
 }
 
 h3 {
 font-kerning: 5;
 font-style: italic;
-color:aquamarine;
+color: darkcyan;
 }
 
 body {
