@@ -1,13 +1,13 @@
 h1 {
 font-kerning: 5;
 font-style: italic;
-color: lightblue;
+color: rgb(118, 144, 153);
 }
 
 p {
 font-kerning: 5;
 font-style: italic;
-color:aliceblue;
+color:rgb(180, 216, 248);
 }
 
 h3 {
@@ -18,4 +18,5 @@ color:aquamarine;
 
 body {
     background-color: blanchedalmond;
+    text-align: center;
 }
