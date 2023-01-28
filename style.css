@@ -1,22 +1,39 @@
-h1 {
-font-kerning: 5;
-font-style: italic;
-color: paleturquoise;
-}
-
-p {
-font-kerning: 5;
-font-style: italic;
-color: palevioletred;
-}
-
-h3 {
-font-kerning: 5;
-font-style: italic;
-color: darkcyan;
-}
-
 body {
-    background-color: blanchedalmond;
-    text-align: center;
+    margin: auto;
+    background-color: rgb(238, 235, 207);
+}
+
+#main {
+    display: flex;
+    padding-left: 200px;
+    margin: 20px;
+    color: white;
+    justify-content: center;
+    background-image: url(cookies.jpg);
+    width: 87%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.main style {
+    font-size: 100px;
+}
+
+h1 {
+    text-shadow: 5px 10px 10px rgba(0, 0, 0, 75);
+    font-size: 150px;
+    font-family: 'Aboreto';
+    font-style: italic;
+    padding: 5%;
+    font-weight: bolder;
+}
+
+#info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 25px;
 }
